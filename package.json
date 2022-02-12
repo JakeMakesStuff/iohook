@@ -88,6 +88,7 @@
     "tar": "^6.0.5",
     "vuepress": "^1.7.1"
   },
+  "os": ["linux"],
   "supportedTargets": [
     [
       "electron",
